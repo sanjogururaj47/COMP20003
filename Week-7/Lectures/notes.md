@@ -10,12 +10,12 @@
 
 
 ## MASTER THEOREM
-- $$T(n) =  aT(n/b) + f(n)$$
+- $T(n) =  aT(n/b) + f(n)$
 - size of the subproblems decreases by b
-	- base case reached after $$\log_{b}(n)$$
-- At the kth level we would have $$a^k$$ problems
-- At the kth level, total work done is: $$a^k*O(n/b^k)^d = O(n^d)*(a/b^d)^K$$
-- As k increases from $$0 - log_b(n)$$, we get a geometric series representing how the amount of work done increases $$\sum O(n^d)*(a/b^d)^K$$
+	- base case reached after $log_b(n)$
+- At the kth level we would have $a^k$ problems
+- At the kth level, total work done is: $a^k*O(n/b^k)^d = O(n^d)*(a/b^d)^K$
+- As k increases from $0 - log_b(n)$, we get a geometric series representing how the amount of work done increases $\sum O(n^d)*(a/b^d)^K$
 ![Image of complexity in the master theorem analysis]
 (Scrots/complexity.jpg)
 ![Image of complexity in the master theorem analysis]
