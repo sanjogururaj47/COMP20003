@@ -1,0 +1,5 @@
+Trashmate --> NOTFOUND
+what --> NOTFOUND
+Amott Quality Meats --> Census year: 2018 || Block ID: 113 || Property ID: 110689 || Base property ID: 108118 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762482, 144.9576703) || 
+QV Meats --> Census year: 2018 || Block ID: 113 || Property ID: 110689 || Base property ID: 108118 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762482, 144.9576703) || 
+QV Meats --> Census year: 2018 || Block ID: 358 || Property ID: 109828 || Base property ID: 109828 || CLUE small area: North Melbourne || Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95558 || y coordinate: -37.80562 || Location: (-37.80561885, 144.955585) || 
